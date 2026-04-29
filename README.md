@@ -1,2 +1,29 @@
-# dibimbingportfolio
-Data Analyst portfolio project focusing on resolving COGS inconsistency in multi-division F&amp;B operations using ESB data.
+# Resolving COGS Inconsistency in Multi-Division F&B Operations
+
+## Objective
+This project analyzes inconsistencies in Cost of Goods Sold (COGS) across divisions and identifies root causes within operational processes.
+
+## Problem
+COGS and inventory reports were inconsistent, leading to unreliable financial visibility.
+
+## Approach
+- End-to-end data validation
+- Root cause analysis
+- Distribution process investigation
+
+## Key Findings
+- Delayed transfer input
+- Quantity mismatch
+- Zero pricing issue
+- Unit inconsistency
+
+## Solution
+- Standardized data flow
+- Cleaned dataset
+- Built reporting structure
+
+## Output
+Operational dashboard for monitoring spoilage and COGS.
+
+## Note
+Dataset is confidential and cannot be shared.
