@@ -27,3 +27,7 @@ Operational dashboard for monitoring spoilage and COGS.
 
 ## Note
 Dataset is confidential and cannot be shared.
+
+## Presentation
+
+[View Project Presentation (Google Slides)](https://docs.google.com/presentation/d/1AhnK4rvYwnJC4OEOgA0ks5dGhk-RhGs3u1DrNX9TZZ8/edit?slide=id.p4#slide=id.p4)
